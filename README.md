@@ -94,7 +94,7 @@ SQL · Power BI · Python · Star Schema · CTEs · Window Functions · LAG() ·
 ## 📁 Project Files
 
 ```
-Project5-Supply-Chain-Control-Tower/
+SupplyChain_ControlTower/
 ├── dataset/          → 5 dimension table CSVs
 ├── sql/              → supply_chain_analysis.sql
 ├── dashboard/        → supply_chain_control_tower.pbix
